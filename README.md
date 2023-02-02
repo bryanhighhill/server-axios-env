@@ -14,3 +14,8 @@ This is using just React-Redux as written.
 This lecture's goal is to make a request from the cleint to the local server, have that server then make an 3rd party API request. Then pass it back to the client and show it on the DOM.
 
 
+API requests happen from servers
+not REACT code
+
+
+
